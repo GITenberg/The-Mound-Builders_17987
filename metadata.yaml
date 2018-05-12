@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7323
     wikipedia: http://www.mhs.mb.ca/docs/people/bryce_g.shtml
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17987#The-Mound-Builders
 gutenberg_bookshelf:
 - Archaeology
 - Native America
